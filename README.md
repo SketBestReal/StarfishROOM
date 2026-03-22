@@ -4,10 +4,8 @@ A 2D musou roguelite with arcade, hack and slash, sci-fi, queer and blood gamepl
 You can study the code source, edit and create a mods of Starfish ROOM without any legal or technology legal 
 technology
 
-How to Play
-
+# How to Play
 Keyboard & Mouse
-
 WASD — Move
 Left Click — Attack
 Right Click — Dash
