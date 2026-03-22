@@ -1,9 +1,8 @@
 # StarfishROOM
-An alien colony has invaded the planet of cats. A transgender catboy named Kibo Wave was chosen to fight against a horde of monsters and battle aliens eternally in a loop called "Eternal Loop." After fighting for a lifetime, Kibo encounters his clone from the future, named Boki, who is allied with the aliens and created to kill him. Now, Kibo must save his life against Boki for a worthy ending.
+A 2D musou roguelite with arcade, hack and slash, sci-fi, queer and blood gameplay
 
-Itch Link:
-
-https://kittycreampuff.itch.io/starfish-room-final
+You can study the code source, edit and create a mods of Starfish ROOM without any legal or technology legal 
+Linkinktps://kittycreampuff.itch.io/starfish-room-final
 
 How to Play
 
