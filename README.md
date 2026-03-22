@@ -23,3 +23,8 @@ Developer: Kittycreampuff
 
 # How to Edit Open-Source?
 Open or install your Gdevelop 5 lastet version software, load the STFROOM source code to Gdevelop, now can view all code of this game, thanks
+
+# Link
+https://x.com/sketBR
+https://kittycreampuff.itch.io/starfish-room-final
+https://ko-fi.com/sketbr
