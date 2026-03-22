@@ -2,7 +2,7 @@
 A 2D musou roguelite with arcade, hack and slash, sci-fi, queer and blood gameplay
 
 You can study the code source, edit and create a mods of Starfish ROOM without any legal or technology legal 
-Linkinktps://kittycreampuff.itch.io/starfish-room-final
+technology
 
 How to Play
 
