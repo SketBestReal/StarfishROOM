@@ -14,17 +14,15 @@ Left Click — Attack
 Right Click — Dash
 E/RControl — Throw bomb
 
-
 Gamepad (Xbox Input Only):
-
 Left stick — Move/Select Crads
 B — Attack
 Y — Dash
 X — Throw bomb
 
-
 Follow & Support
 
-🐦 X / Twitter ☕ Ko-fi
-
 Developer: Kittycreampuff
+
+#How to Edit Open-Source?
+Open or install your Gdevelop 5 lastet version software, load the STFROOM source code to Gdevelop, now can view all code of this game, thanks
